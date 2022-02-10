@@ -1,1 +1,1 @@
-ECHO is on.
+Kahit ano nalang
